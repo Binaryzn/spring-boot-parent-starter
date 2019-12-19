@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+spring-boot-parent-starter.iml
+spring-boot-jsf-starter/spring-boot-jsf-starter.iml
+out
+gen
